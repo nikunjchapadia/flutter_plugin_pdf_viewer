@@ -1,3 +1,5 @@
+### fixing existing bugs  of dependencies 
+
 # flutter_plugin_pdf_viewer
 
 A flutter plugin for handling PDF files. Works on both Android & iOS
