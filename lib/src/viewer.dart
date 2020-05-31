@@ -133,7 +133,7 @@ class _PDFViewerState extends State<PDFViewer> {
           ? FloatingActionButton(
               elevation: 4.0,
               tooltip: widget.tooltip.jump,
-              child: Icon(Icons.view_carousel),
+              child: Icon(Icons.view_carousel,color: Colors.yellow,),
               onPressed: () {
                 _pickPage();
               },
