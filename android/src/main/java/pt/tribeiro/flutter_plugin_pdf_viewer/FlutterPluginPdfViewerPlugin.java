@@ -1,4 +1,4 @@
-package pt.tribeiro.flutter_plugin_pdf_viewer;
+package android.src.main.java.pt.tribeiro.flutter_plugin_pdf_viewer;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;

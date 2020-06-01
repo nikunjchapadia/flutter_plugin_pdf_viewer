@@ -20,8 +20,8 @@ class PDFViewer extends StatefulWidget {
       @required this.document,
       this.indicatorText = Colors.white,
       this.indicatorBackground = Colors.black54,
-      this.showIndicator = true,
-      this.showPicker = true,
+      this.showIndicator = false,
+      this.showPicker = false,
       this.showNavigation = true,
       this.tooltip = const PDFViewerTooltip(),
       this.indicatorPosition = IndicatorPosition.topRight})

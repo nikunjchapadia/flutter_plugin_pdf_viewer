@@ -47,7 +47,7 @@ class _PDFPageState extends State<PDFPage> {
           minScale: 1.0,
           panLimit: 0.8,
           maxScale: 3.0,
-          child: Image(image: provider),
+          child: Image(image: provider, fit: BoxFit.cover,),
         ));
   }
 }
